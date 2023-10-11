@@ -2,7 +2,7 @@
 Binary Search Tree
 
 
-1. Problem || Introduction to Binary Search Tree
+1. Problem || Find Number of Nodes in BST at nth level
 
 
-       https://www.codingninjas.com/studio/problems/binary-search_972?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=1
+       https://www.codingninjas.com/studio/problems/number-of-nodes_8162204?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1&count=25&page=1&search=&sort_entity=order&sort_order=ASC 
