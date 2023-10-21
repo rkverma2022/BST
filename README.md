@@ -18,4 +18,10 @@ Binary Search Tree
 
 3. Search a node in Binary Tree
 
+   3A.
+
           https://www.codingninjas.com/studio/problems/search-in-bst_1402878?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1 
+
+   3B.
+   
+          https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/
