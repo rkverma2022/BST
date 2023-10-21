@@ -16,4 +16,6 @@ Binary Search Tree
 
        https://www.codingninjas.com/studio/problems/create-binary-tree_8360671?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1
 
-   
+3. Search a node in Binary Tree
+
+          https://www.codingninjas.com/studio/problems/search-in-bst_1402878?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1 
