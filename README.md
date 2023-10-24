@@ -25,3 +25,10 @@ Binary Search Tree
    3B.
    
           https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/
+
+4. Problems BST
+
+   Problem01
+
+                 https://www.codingninjas.com/studio/problems/ceil-from-bst_920464?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf 
+          
