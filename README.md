@@ -32,7 +32,11 @@ Binary Search Tree
 
                  https://www.codingninjas.com/studio/problems/ceil-from-bst_920464?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 
-   Problem02
+   Problem02 || insertion into BST
 
                  https://www.codingninjas.com/studio/problems/insert-into-a-binary-search-tree_1279913?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
           
+
+   Problem03 || insertion into BST
+
+                 https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/
