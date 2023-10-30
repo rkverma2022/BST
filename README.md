@@ -40,3 +40,7 @@ Binary Search Tree
    Problem03 || insertion into BST
 
                  https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/
+   
+   Problem04 || Deletion of Node from BST
+
+                 https://www.codingninjas.com/studio/problems/delete-node-in-bst_920381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
